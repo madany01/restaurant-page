@@ -1,0 +1,41 @@
+.home .headline {
+    color: #190f04;
+    text-transform: capitalize;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 48px;
+}
+
+.home .row {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.home img {
+    width: 400px;
+    height: auto;
+    border-radius: 4px;
+}
+
+.home .testimonial-ctr {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: #190f04;
+}
+
+.home .testimonial {
+    font-size: 18px;
+    line-height: 1.4;
+    font-style: italic;
+}
+
+.home .testimonial::first-letter {
+    text-transform: uppercase;
+}
+
+.home .testimonial-author {
+    align-self: end;
+    text-transform: capitalize;
+}

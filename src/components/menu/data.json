@@ -1,0 +1,26 @@
+[
+  {
+    "name": "menu name 1",
+    "cost": "11$",
+    "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+    "imageName": "menu1.jpg"
+  },
+  {
+    "name": "menu name 2",
+    "cost": "22$",
+    "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+    "imageName": "menu2.jpg"
+  },
+  {
+    "name": "menu name 3",
+    "cost": "33$",
+    "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+    "imageName": "menu3.jpg"
+  },
+  {
+    "name": "menu name 4",
+    "cost": "44$",
+    "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+    "imageName": "menu4.jpg"
+  }
+]

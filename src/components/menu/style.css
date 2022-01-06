@@ -1,0 +1,39 @@
+.menus {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+    align-items: center;
+    gap: 24px;
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: center;
+    max-width: 300px;
+    padding: 16px;
+    background-color: #fff;
+    border: 1px solid #d88935;
+    box-shadow: 0 0 16px #d889356e;
+    border-radius: 8px;
+}
+
+.menu-name {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.menu-img {
+    width: 256px;
+    height: 256px;
+    border-radius: 8px;
+}
+
+.menu-details {
+    text-align: center;
+}
+
+.menu-cost {
+    font-weight: 600;
+}
